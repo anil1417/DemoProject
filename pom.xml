@@ -72,7 +72,7 @@
 
      </plugins>
     </pluginManagement>
-	<distributionManagement>
+	<distributionmanagement>
 	  <repositores>
 		<repository>
 			<id>nexus</id>
@@ -83,6 +83,6 @@
 			<url>http://localhost:8083/repository/snapshot12/</url>
 		</repository>
 	  </repositores>
-	</distributionManagement>
+	</distributionmanagement>
   </build>
 </project>
